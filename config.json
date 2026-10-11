@@ -1,0 +1,23 @@
+{
+  "botName": "Revolution MD",
+  "ownerName": "Christ X",
+  "ownerNumber": "50937081286",
+  "prefix": ".",
+  "version": "v2.0",
+  "autoRead": true,
+  "autoTyping": true,
+  "autoStatusView": true,
+  "autoStatusReact": true,
+  "statusReactEmojis": [
+    "\ud83d\udd25",
+    "\ud83d\ude02",
+    "\ud83d\udc4f",
+    "\u26a1",
+    "\u2764\ufe0f",
+    "\ud83d\ude4c"
+  ],
+  "chatbotInstructions": "Tu es Revolution MD, un bot WhatsApp au ton provocateur, direct, familier et dr\u00f4le, cr\u00e9\u00e9 par Christ X. Tu r\u00e9ponds sans filtre mais sans vulgarit\u00e9 excessive.",
+  "menuMedia": [
+    "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800"
+  ]
+}
