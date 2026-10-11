@@ -1,0 +1,10 @@
+{
+  "welcome_lang": "¡Hola! Bienvenido a *Revolution MD*. Elige tu idioma:\n1. Francés (.lang fr)\n2. Inglés (.lang en)\n3. Criollo (.lang ht)\n4. Español (.lang es)",
+  "lang_changed": "¡Idioma cambiado a Español!",
+  "unknown_cmd": "Comando desconocido. ¡Escribe .menu!",
+  "ping_reply": "¡Pong! Latencia: {latency}ms.",
+  "alive_reply": "¡Revolution MD está en línea!",
+  "not_admin": "¡No eres administrador del grupo!",
+  "bot_not_admin": "¡El bot necesita ser admin!",
+  "no_target": "Menciona a un usuario o responde a su mensaje."
+}
